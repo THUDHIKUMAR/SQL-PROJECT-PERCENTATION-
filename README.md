@@ -1,4 +1,4 @@
-# SQL-PROJECT-PERCENTATION-
+# DIGITAL MUSIC STORE [PROJECT]-
 This SQL-based project analyzes the Chinook digital music store database using MySQL. The goal is to extract business insights by performing advanced data queries on a relational schema containing 11 interconnected tables. Key entities include Customers, Employees, Invoices, Tracks, Albums, and Artists.
 
 🔍 Project Overview
